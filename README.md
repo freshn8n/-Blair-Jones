@@ -4,7 +4,7 @@ IT & Automation Builder | AI/RAG Systems | n8n Workflows | CompTIA A+ (In Progre
 
 🧠 What I Build
 I design and deploy automation systems that eliminate manual work, connect tools together, and use AI to retrieve real data and answer real questions — accurately.
-My background is 10+ years of high-volume operations leadership. That means I don’t just build things — I build things that hold up under pressure, at scale, with consistency.
+My background is 10+ years of high-volume operations leadership in hospitality. That means I don’t just build things — I build things that hold up under pressure, at scale, with consistency.
 
 🚀 Featured Project
 🍽️ AI Recipe & Allergen RAG System
